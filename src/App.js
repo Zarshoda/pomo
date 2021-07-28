@@ -1,10 +1,10 @@
 import './App.css';
-import Oyin from './Oyin/Oyin';
+import Pomodoro from './Pomodoro/Pomodoro';
 
 function App() {
   return (
     <div className="App">
-      <Oyin />
+      <Pomodoro />
     </div>
   );
 }
